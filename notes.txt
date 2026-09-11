@@ -1,0 +1,7 @@
+decent looks for Lasering
+z = -60
+Y max = 410 (gets a little close to the cardboard)
+Y min = 250
+X max = 100 (not real max, good test zone)
+X min = -100
+
